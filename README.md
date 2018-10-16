@@ -15,3 +15,6 @@ Illustrates usage of if elif else, randint  in Python
 This is an interactive game developed using turtle Library .User can select the shape to be drawn .
 Illustrates usage of Switch case for functions in Python 
 
+## Animate a Flying Bird
+This is a sample animation where we can animate a bird object upon a moving background image .
+Pygame library has been used for display and image manipulations .Run FlyingBird.py for a sample demo
